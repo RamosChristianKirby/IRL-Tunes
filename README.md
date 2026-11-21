@@ -1,8 +1,14 @@
 <p align="center"><img src="src/main/resources/icon.png" width="128" alt="IRL Tunes icon"></p>
 
-# IRL Tunes
+# 🎵 IRL Tunes
 
 A client-side **NeoForge 26.3** mod that shows the music playing on your computer as a small HUD widget in Minecraft: title, artist, cover art, source app and a live progress bar.
+
+![Minecraft](https://img.shields.io/badge/Minecraft-26.3-62B47A)
+![Loader](https://img.shields.io/badge/Loader-NeoForge-D7742F)
+![Side](https://img.shields.io/badge/Side-Client-5B8DEF)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Mod](https://img.shields.io/badge/Mod-1.0.0-E07B39)
 
 It's an open-source (MIT) take on the idea behind the Fabric mod *Now Playing IRL*, written from scratch for NeoForge. No code from that project is used.
 
